@@ -1,4 +1,4 @@
-const NEWS_API_KEY = 'd198f582a36243cf9452e0a3b10aefcc';
+const NEWS_API_KEY = '689bf691d5fd402f97b99ff53cb18da8';
 const BASE_URL = 'https://newsapi.org/v2';
 
 const REQUEST = 'REQUEST';
